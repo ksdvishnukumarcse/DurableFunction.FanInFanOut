@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurableFunction.FanInFanOut.Client", "DurableFunction.FanInFanOut.Client\DurableFunction.FanInFanOut.Client.csproj", "{3D0FB340-7AB3-4FFB-9610-7A29E0B6BE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0FB340-7AB3-4FFB-9610-7A29E0B6BE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0FB340-7AB3-4FFB-9610-7A29E0B6BE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0FB340-7AB3-4FFB-9610-7A29E0B6BE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0FB340-7AB3-4FFB-9610-7A29E0B6BE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD1985C5-234C-4AF0-969B-16CD69FE2E61}
+	EndGlobalSection
+EndGlobal
